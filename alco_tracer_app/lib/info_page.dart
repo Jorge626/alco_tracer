@@ -27,7 +27,6 @@ class _InfoPageState extends State<InfoPage> {
         body: Padding(
           padding: const EdgeInsets.all(10),
           child: SingleChildScrollView(
-            reverse: true,
             child: Column(children: [
               Align(
                 alignment: Alignment.topLeft,

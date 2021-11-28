@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="edu.cpp.CS4750.alcotracer.alco_tracer_app">
    <application
-        android:label="alco_tracer_app"
+        android:label="AlcoTracer"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
